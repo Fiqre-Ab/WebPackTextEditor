@@ -1,5 +1,6 @@
 # WebPackTextEditor
 
+[![DEPLOY](https://img.shields.io/badge/DEPLOY-%E2%9C%93-brightgreen)](https://texteditor-7odd.onrender.com//)
 WebPackTextEditor is a simple text editor application built using Webpack, PWA (Progressive Web App) features, and IndexedDB for data storage.
 
 ## Table of Contents
