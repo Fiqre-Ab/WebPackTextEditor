@@ -19,7 +19,7 @@ WebPackTextEditor is a simple text editor application built using Webpack, PWA (
 WebPackTextEditor is a web application that combines modern web development technologies to create a text editor with offline capabilities. It uses Webpack for bundling, PWA features for offline usage and installation, and IndexedDB for data storage.
 
 ## Video
-[![WebPackTextEditor Demo](link-to-thumbnail-image)](link-to-video)
+[![WebPackTextEditor Demo](Assets/J.A.T.E.png)](https://drive.google.com/file/d/15c_mp3X8nR7bFaCZuvy3PH9XxrQtQaDd/view?usp=sharing)
 
 
 ## Features
