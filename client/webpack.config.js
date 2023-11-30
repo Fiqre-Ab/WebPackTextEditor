@@ -27,12 +27,12 @@ module.exports = () => {
       }),
       new WebpackPwaManifest({    
         name: 'Just Another Text Editor',
-        short_name: 'JATE',
+        short_name: 'J.A.T.E',
         inject: true,
         fingerprints: false,
         description: 'A simple to-do list application',
-        background_color: '#ffffff',
-        theme_color: '#ffffff',
+        background_color: '#225ca3',
+        theme_color: '#225ca3',
         start_url: '/',
         publicPath: '/',
         icons: [
